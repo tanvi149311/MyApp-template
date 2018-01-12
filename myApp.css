@@ -1,0 +1,52 @@
+body{
+              position:relative;
+              overflow-y: scroll;
+        }
+          .lead{
+              font-weight: 150;
+              
+          }
+        .jumbotron{
+            background: url("bigImg.jpeg"); 
+            text-align: center;
+            
+        }
+        
+        #email2{
+            width: 300px;
+        }
+        
+    
+        #summary{
+            text-align: center;
+            margin-top:80px;
+            margin-bottom: 80px;
+        }
+        
+        .card-img-top {
+              
+             width: 100%;
+              
+        }
+        
+          h4{
+              color:#09477B;
+          }
+          #downloadApp{
+              
+              background-color:cyan;
+              text-align: center;
+              height: 500px;
+              width:100%;
+              margin-top:30px; 
+              
+          }
+          
+          #text{
+              padding:200px;
+          }
+          
+          #appStore{
+              height: 70px;
+              width: 150px;
+          }
